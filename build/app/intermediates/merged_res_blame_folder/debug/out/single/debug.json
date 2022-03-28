@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

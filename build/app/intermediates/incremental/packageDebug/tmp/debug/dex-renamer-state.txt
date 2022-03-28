@@ -1,0 +1,4 @@
+#Tue Mar 08 15:31:47 WAT 2022
+base.0=/Users/gregoire/Epitech/3rd year/B-DEV-501-LIL-5-1-redditech-pierre.bittou/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
