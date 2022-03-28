@@ -1,25 +1,9 @@
-# Redditech - Epitech project
+# Reddit_Browser_App_Flutter
 
-Redditech is a browsing app for reddit. Using the Reddit API in flutter (Dart language).
+This project is a browsing app for reddit.
+Using the Reddit API in flutter (Dart language).
 
-## Authors
-
-- [@pierrebittou](https://github.com/pierrebittou)
-- [@GregoireDuhem](https://github.com/GregoireDuhem)
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/EpitechPromo2024/B-DEV-501-LIL-5-1-redditech-pierre.bittou.git
-```
-
-Go to the project directory
-
-```bash
-  cd DEV-501-LIL-5-1-redditech-pierre.bittou
-```
+## Run Locally and APK
 
 Install dependencies
 
@@ -33,6 +17,12 @@ Start the application
   flutter run
 ```
 
+OR, build the apk and try it on your physical device :)
+
+```bash
+  flutter build apk
+```
+
 ## Features
 
 - Subreddit search
@@ -43,7 +33,18 @@ Start the application
 
 ## Screenshots
 
-images will be available in the public repository
-![Home feed](username.github.com/repository/img/image.jpg)
-![Search](username.github.com/repository/img/image.jpg)
-![Profile](username.github.com/repository/img/image.jpg)
+Profile :
+
+![Profile](https://user-images.githubusercontent.com/71516058/158408999-25160a8d-aee3-4a1e-a8d9-5d293f4edf6a.jpg)
+
+Homescreen :
+
+![homeScreen](https://user-images.githubusercontent.com/71516058/158409017-d468b07f-452c-49dc-acd3-15cca9bcf3a1.jpg)
+
+Search :
+
+![Search](https://user-images.githubusercontent.com/71516058/158409033-86ccd8fe-77ca-42b7-8f37-89cab4171572.jpg)
+
+## Author
+
+- [@GregoireDuhem](https://github.com/gregoireduhem)
