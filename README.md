@@ -35,7 +35,7 @@ OR, build the apk and try it on your physical device :)
 
 Profile :
 
-![Profile](https://user-images.githubusercontent.com/71516058/158408999-25160a8d-aee3-4a1e-a8d9-5d293f4edf6a.jpg)
+![Profile](https://raw.githubusercontent.com/GregoireDuhem/Redditech-Epitech-/main/images/screenshot/Capture%20d’écran%202022-02-21%20à%2016.31.47.png)
 
 Homescreen :
 
